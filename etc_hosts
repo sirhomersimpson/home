@@ -1,0 +1,17 @@
+127.0.0.1	localhost
+::1		localhost
+127.0.1.1	machine1-system76
+
+
+#machine1-system76
+192.168.0.113   machine1-system76
+
+#machine2-gpu
+192.168.0.112   machine2-gpu
+
+#machine3-intel
+192.168.0.111   machine3-intel
+
+#oci stuff
+# fra - imagegen
+130.61.219.195 imagegen
